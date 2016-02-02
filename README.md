@@ -33,3 +33,6 @@ STOP
 ```
 
 ## Circuit
+
+![circuit](https://github.com/mse240966/raspberry-pi-c-serial/blob/master/docs/serialCircuit.png "Serial Circuit")
+
